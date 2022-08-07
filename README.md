@@ -1,7 +1,7 @@
 # AIRBNB CLONE
 
 ## Built using python language
-##DESCRIPTION
+## DESCRIPTION
 
 This project implements the Airbnb clone It uses th BaseModel class as the super class The datetime, cmd and uuid modules are used in its implementation The "shell" works in interactive and non-interactive mode. Every directory is a package
 
@@ -12,7 +12,7 @@ The command interpreter(shell) is started by running the console.py module:
 
 ```$./console.py
 
-Usage
+ Usage
 It(coommand interpreter) supports various commands: -create -destroy -all -update -quit
 ````
 ```create
