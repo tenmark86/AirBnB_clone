@@ -48,7 +48,7 @@ Quits the console:
 
 $ quit
 ```
-## Author
+## Authors: 
 Mark Mutuota
 
 David Olago
