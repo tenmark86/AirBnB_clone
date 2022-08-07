@@ -1,5 +1,7 @@
 # AIRBNB CLONE
 
+![Airbnb_clone](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220807%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220807T092345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3b107fe2e4e486bb6fbc9fc5cfc7672f2fe69ab05e40da3feae7bfacc1de6a07)
+
 ## Built using python language
 ## DESCRIPTION
 
