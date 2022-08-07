@@ -36,11 +36,12 @@ Updates instances based on the class name and id by adding or updating an attrib
 
 $ update BaseModel 1243-1243-1243 email "airbnbclone@alxSE.com"
 
-quit
+## quit
 Quits the console:
 
 $ quit
 
-Author
+## Author
 Mark Mutuota
+
 David Olago
